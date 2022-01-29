@@ -13,4 +13,5 @@ We need to get data. We'll use a sample data set for that.The raw data is comple
 Project Link:
 https://gallery.cortanaintelligence.com/Experiment/Income-Prediction-Experiment-2
 
+
 I have developed using Azure Machine Learning Classic.
